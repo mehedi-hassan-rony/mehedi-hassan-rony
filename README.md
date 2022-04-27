@@ -20,7 +20,5 @@ Skills: Java / Spring / Python / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedi-hassan-rony&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehedi-hassan-rony)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mehedi-hassan-rony)  
 

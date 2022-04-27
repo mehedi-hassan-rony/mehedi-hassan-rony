@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi there 👋, my name is Mehedi Hassan Rony
+#### I am GitHub Readme Generator's creator
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-**mehedi-hassan-rony/mehedi-hassan-rony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
+
+
+
 
 
